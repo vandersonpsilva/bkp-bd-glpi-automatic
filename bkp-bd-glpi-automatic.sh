@@ -15,7 +15,7 @@ MYSQLDIR='cd /var/www/html/glpi/files/_dumps'
 
 
 #2-Realizando o backup de todas as bases ou base específica
-$MYSQLDUMP -uroot -p"password_BD"  "name_BD" > /var/www/html/files/_dumps/glpi_$DATAHORA.sql
+$MYSQLDUMP -uroot -p"password_BD"  "name_BD" > /var/www/html/glpi/files/_dumps/glpi_$DATAHORA.sql
 
 #3-Acessando a pasta via váriavel
 $MYSQLDIR
