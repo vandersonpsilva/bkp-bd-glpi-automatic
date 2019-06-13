@@ -1,2 +1,7 @@
 # bkp-bd-glpi-automatic
-Script para realizar bkp automático do glpi , compactar o .sql e comprimi-lo , após isso direcioná-lo para um compartilhamento windows em rede. 
+Script para realizar bkp automático do glpi!
+
+# Procediemntos
+
+1 - Compacta o .sql e gerar um .tar.gz ou .zip 
+2 - Após isso será direcionádp para um compartilhamento windows em rede. 
