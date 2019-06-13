@@ -20,7 +20,7 @@ Script para realizar bkp automático do glpi!
 #8- DESMONTAR COMPARTILHAMENTO LINUX
 
 
-# Backup diario do BD MariaDB Do GLPI.
+# Backup diário do BD MariaDB Do GLPI.
 Criado por Vanderson Pereira da Silva.<br>
 email: vanderson.pereia.silva@gmail.com.br<br>
 Distribuição CentOS 7 - MariaDB 10 PHP 7.0<br>
